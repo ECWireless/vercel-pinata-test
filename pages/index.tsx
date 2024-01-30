@@ -17,7 +17,7 @@ export default function Home() {
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.center}>
           <img
-            src="https://peach-immediate-rhinoceros-66.mypinata.cloud/ipfs/QmYJCzDEsMW9iNCcU73oX2u1BXWAzZngsZC57DcndDpJ8a"
+            src="https://gateway.pinata.cloud/ipfs/QmYJCzDEsMW9iNCcU73oX2u1BXWAzZngsZC57DcndDpJ8a"
             alt="avatar"
           />
         </div>
